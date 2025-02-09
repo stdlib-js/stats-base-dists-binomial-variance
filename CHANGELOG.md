@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
 -   [`3283517`](https://github.com/stdlib-js/stdlib/commit/32835176f21ecd14cbf81a51699d49533ff63fe6) - **feat:** add C implementation for `stats/base/dists/binomial/variance` [(#3929)](https://github.com/stdlib-js/stdlib/pull/3929) _(by Prashant Kumar Yadav, Athan Reines, Philipp Burckhardt)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
